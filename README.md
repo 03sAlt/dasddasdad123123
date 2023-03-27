@@ -20,7 +20,7 @@ local webhookcheck =
 local gameName = game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name
 local player = game.Players.LocalPlayer
 local url =
-   "https://discord.com/api/webhooks/1089785636669632582/5-8oGeu1jlZnioEyk0uPy3-3kSXx9nJQTa72iU2_299vTNsiShglGo7UIUQ-p8pvyIAh"
+   "https://discord.com/api/webhooks/1089796343872094238/doy-kVU9WzvOjDMNBEy6ZOc0rM66cuYoWcYL1EymxUAEn2im_882OrEoOTjpJowh8kud"
 local data = {
    ['embeds'] = {{
     ["thumbnail"] = {["url"] = "https://www.roblox.com/headshot-thumbnail/image?userId=" .. player.UserId .. "&width=150&height=150&format=png"},
